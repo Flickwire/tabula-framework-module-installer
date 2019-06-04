@@ -1,0 +1,12 @@
+{
+    "name": "polymathic/tabula-moduleinstaller",
+    "description": "Module Installer for Tabula",
+    "license": "Proprietary",
+    "authors": [
+        {
+            "name": "Skye",
+            "email": "skye@domos.me.uk"
+        }
+    ],
+    "require": {}
+}
