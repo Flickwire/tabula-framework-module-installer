@@ -1,12 +1,12 @@
 {
-    "name": "polymathic/tabula-moduleinstaller",
+    "name": "tabula/tabula-moduleinstaller",
     "description": "Module Installer for Tabula",
     "type": "composer-plugin",
-    "license": "Proprietary",
+    "license": "MIT",
     "authors": [
         {
             "name": "Skye",
-            "email": "skye@domos.me.uk"
+            "email": "skye@blueskye.co.uk"
         }
     ],
     "require": {
